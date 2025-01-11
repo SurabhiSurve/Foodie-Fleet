@@ -1,0 +1,7 @@
+{
+  "name": "InternPro",
+  "displayName": "InternPro",
+  "assets": [
+  "./assets/*"
+]
+}
